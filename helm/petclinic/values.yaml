@@ -5,7 +5,7 @@
 replicaCount: 1
 
 image:
-  repository: initsixcloud/petclinic
+  repository: sreess11/sreess
   tag: latest
   pullPolicy: IfNotPresent
 
